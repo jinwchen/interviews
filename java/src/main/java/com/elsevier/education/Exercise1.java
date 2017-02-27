@@ -1,13 +1,19 @@
 package com.elsevier.education;
 
+
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
 /**
+Candidate : Jin W. Chen
+Email : JinWChen@yahoo.com
+recruiter :
+Linda Pham | Technical Recruiter
+JOBSPRING PHILADELPHIA 
+Office: (267) 765-6100
 
 TODO: Make this class immutable.
-
 */
 
 public final class Exercise1 {
@@ -46,3 +52,4 @@ public final class Exercise1 {
 
 	}
 }
+
